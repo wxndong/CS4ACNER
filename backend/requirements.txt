@@ -1,0 +1,9 @@
+flask
+flask_cors
+transformers
+pytorch-crf
+flask_limiter
+dotenv
+openai
+pyjwt
+flask_sqlalchemy
